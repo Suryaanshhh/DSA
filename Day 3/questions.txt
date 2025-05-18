@@ -1,0 +1,17 @@
+Question 1-Write a function to find maximum, minimum and second maximun in an array.
+
+Question 2-Find length of array without any inbuilt method.
+
+Question 3-Write a program to store first n prime numbers in an array . After storing return the array.
+
+Input:-
+n=5
+
+Output:- Return the output in the form of an array.
+2
+3
+5
+7
+11
+Things to learn in Question 3 are-Concepts of Flag(Learn about flags)
+
